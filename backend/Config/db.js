@@ -4,4 +4,4 @@ export const connectDB = async () => {
     .then(() => {
         console.log("MongoDB connected");
     });
-}
+};
